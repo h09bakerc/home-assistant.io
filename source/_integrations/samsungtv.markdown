@@ -140,6 +140,7 @@ For example: for model `UN55NU7100`, the `UN55` would mean it's an LED, North Am
 - JU6800 - Unable to see state and unable to control
 - JU7000 - Unable to see state and unable to control (but port 8001 *is* open)
 - JU7500 - Unable to see state and unable to control
+- MU6100 - Unable to see state and unable to control
 - MU6125 - Unable to see state and unable to control (Tested on UE58MU6125 on port 8001 and 8801)
 - MU6300 - Port set to 8001, turning on works, status not working reliably, turning off is not permanent (it comes back on)
 - MU6400 - Unable to see state and unable to control (using latest 1270 firmware. Had limited functionality on previous firmware)
